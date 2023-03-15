@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian Cedeno!
-- 👀 I’m interested in building disruptive financial technology.
+- 👀 I’m interested in building useful health and financial applications.
 - 🌱 I’m currently learning Ruby on Rails, Active Records and SQL.
-- 💞️ I’m looking to collaborate on fintech projects to help build a financialy literate generation.
+- 💞️ I’m looking to collaborate on healthtech and fintech projects.
 - 📫 How to reach me cedenoc181@gmail.com, or find me on linkedin[www.linkedin.com/in/christian-cedeno-249187124].
 
 <!---
