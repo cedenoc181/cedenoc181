@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Christian Cedeno!<br>👀 I'm currently working on a freelance project for Physical therapy clinics to improve the efficiency of tedious task for all staffs alike.<br>🌱 I’m currently learning data scraping, data management and improving on my MERN and RoR/react stacks.<br>📫 How to reach me christiancedenob.f@gmail.com, or find me on linkedin[www.linkedin.com/in/christian-cedeno-249187124].<br>check out my personal website www.Christiancedeno.com 🌐<br>💻I'm a very active individual, when i'm not programming, <br>🚴🏾‍♂️I spend time cycling  in the greatest city in the world.<br>⚾️ I am a huge fan of baseball, check out my college baseball days here![https://www.region15athletics.com/sports/bsb/2018-19/players/christiancedeno95dm] <br>
+<br>👋 Hi, I’m Christian Cedeno!<br>
+⚾ I’m currently building [Sandlot Picks Analytics](https://www.sandlotpicks.com/) — a platform delivering data-driven insights and predictive analytics for MLB betting using real-time stats and modeling.<br>
+🌱 I’m currently learning machine learning and expanding my experience with deployment-ready ML stacks.<br>
+📫 How to reach me: christiancedenob.f@gmail.com, or find me on LinkedIn: [www.linkedin.com/in/christian-cedeno-249187124](https://www.linkedin.com/in/christian-cedeno-249187124)<br>
+🌐 Check out my personal website: [www.Christiancedeno.com](http://www.Christiancedeno.com)<br>
 
 
 ## 🌐 Socials:
